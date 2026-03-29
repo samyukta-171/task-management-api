@@ -183,9 +183,3 @@ curl -X DELETE http://127.0.0.1:5000/tasks/1
 
 ---
 
-## Notes
-
-* This is a basic backend project created for learning REST API development.
-* The focus is on simplicity and understanding core concepts.
-
----
